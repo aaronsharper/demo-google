@@ -2,20 +2,7 @@
 
     angular
         .module('demo')
-        .controller('HomeController', HomeController)
-        .controller('AppController', AppController);
-
-    AppController.$inject = ['$scope'];
-
-    function AppController($scope) {
-        /*var app = this;
-        app.isLoggedIn = false;
-        app.readLater = [];
-
-        $scope.$on('readLater', function(event, readLater){
-            app.readLater = readLater;
-        });*/
-    }
+        .controller('HomeController', HomeController);
 
     HomeController.$inject = ['CONSTANTS', '$scope', 'NewsService', '$sce'];
 
@@ -75,8 +62,6 @@
                 article.readLater = false;
                 home.data.readLater.splice(readIndex, 1);
             }
-
-            //broadcastReadLater();
         }
 
         function bindHtml(html) {
@@ -85,12 +70,6 @@
 
         function init() {
             NewsService.feed('mock-data/front-page/front.json');
-            NewsService.movies('mock-data/movies/movies.json');
-            //broadcastReadLater();
-        }
-
-        function broadcastReadLater() {
-            $scope.$emit('readLater', home.data.readLater)
         }
 
         home.init();

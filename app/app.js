@@ -19,11 +19,6 @@
         //controller: 'HomeController',
         //controllerAs: 'home'
       })
-      .when('/login', {
-          templateUrl: 'views/login.html',
-          controller: 'LoginController',
-          controllerAs: 'login'
-      })
       .otherwise({
         redirectTo: '/home'
     });
@@ -38,8 +33,6 @@
 
   function run($rootScope, $location) {
     $location.path('/home');
-    // put here everything that you need to run on page load
-
   }
 
 
