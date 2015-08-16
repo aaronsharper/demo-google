@@ -1,0 +1,107 @@
+<div class="left-sidebar">
+    <div class="app-header"><span class="icon icon-newspaper"></span> News<label>FEEDER</label></div>
+    <div class="sidebar-nav">
+        <h5>Categories</h5>
+        <ul>
+            <li ng-class="{'selected' : home.data.filter === '' && home.data.readLaterFilter === false}" ng-click="home.filterCategory('')"><span class="circle"></span> All</li>
+            <li ng-class="{'selected' : home.data.filter === 'arts' && home.data.readLaterFilter === false}" ng-click="home.filterCategory('arts')"><span class="arts circle"></span> Arts</li>
+            <li ng-class="{'selected' : home.data.filter === 'businessday' && home.data.readLaterFilter === false}" ng-click="home.filterCategory('businessday')"><span class="businessday circle"></span> Business Day</li>
+            <li ng-class="{'selected' : home.data.filter === 'fashionstyle' && home.data.readLaterFilter === false}" ng-click="home.filterCategory('fashionstyle')"><span class="fashionstyle circle"></span> Fashion &amp; Style</li>
+            <li ng-class="{'selected' : home.data.filter === 'health' && home.data.readLaterFilter === false}" ng-click="home.filterCategory('health')"><span class="health circle"></span> Health</li>
+            <li ng-class="{'selected' : home.data.filter === 'nyregion' && home.data.readLaterFilter === false}" ng-click="home.filterCategory('nyregion')"><span class="nyregion circle"></span> N.Y. / Region</li>
+            <li ng-class="{'selected' : home.data.filter === 'opinion' && home.data.readLaterFilter === false}" ng-click="home.filterCategory('opinion')"><span class="opinion circle"></span> Opinion</li>
+            <li ng-class="{'selected' : home.data.filter === 'science' && home.data.readLaterFilter === false}" ng-click="home.filterCategory('science')"><span class="science circle"></span> Science</li>
+            <li ng-class="{'selected' : home.data.filter === 'sports' && home.data.readLaterFilter === false}" ng-click="home.filterCategory('sports')"><span class="sports circle"></span> Sports</li>
+            <li ng-class="{'selected' : home.data.filter === 'technology' && home.data.readLaterFilter === false}" ng-click="home.filterCategory('technology')"><span class="technology circle"></span> Technology</li>
+            <li ng-class="{'selected' : home.data.filter === 'theater' && home.data.readLaterFilter === false}" ng-click="home.filterCategory('theater')"><span class="theater circle"></span> Theater</li>
+            <li ng-class="{'selected' : home.data.filter === 'travel' && home.data.readLaterFilter === false}" ng-click="home.filterCategory('travel')"><span class="travel circle"></span> Travel</li>
+            <li ng-class="{'selected' : home.data.filter === 'us' && home.data.readLaterFilter === false}" ng-click="home.filterCategory('us')"><span class="us circle"></span> U.S.</li>
+            <li ng-class="{'selected' : home.data.filter === 'world' && home.data.readLaterFilter === false}" ng-click="home.filterCategory('world')"><span class="world circle"></span> World</li>
+        </ul>
+        <h5>Read Later</h5>
+        <div class="no-read-later" ng-if="home.data.readLater.length === 0">No articles to read later...<span class="icon-sad2"></span></div>
+        <ul>
+            <li ng-repeat="(key, value) in home.data.readLater | groupBy: 'section'" ng-click="home.filterCategory(value[0].class, true)" ng-class="{'selected' : home.data.filter === value[0].class && home.data.readLaterFilter === true}">
+                <span class="{{value[0].class}} circle"></span> {{key}} <span class="count">{{value.length}}</span>
+            </li>
+        </ul>
+    </div>
+    <div class="app-footer"></div>
+</div>
+<div class="page">
+    <div class="app-bar">
+        <div class="search-bar">
+            <span class="icon-search"></span>
+            <input type="text" placeholder="Start typing to filter news articles..." ng-model="home.search"/>
+            <div class="search-border-active"></div>
+            <span class="icon-close clear-search" ng-if="home.search.length > 0" ng-click="home.clearSearch()"></span>
+        </div>
+        <div class="search-bar-actions">
+            <ul>
+                <li class="icon-list4" ng-class="{'selected': home.data.listStyle === 'list'}" ng-click="home.data.listStyle = 'list'"></li>
+                <li class="icon-layout" ng-class="{'selected': home.data.listStyle === 'grid'}"  ng-click="home.data.listStyle = 'grid'"></li>
+                <!--li class="icon-cog3"></li-->
+            </ul>
+            <!--div class="settings-dropdown"></div-->
+        </div>
+    </div>
+    <div class="page-body">
+        <div class="no-articles-found" ng-if="(home.data.frontPage | filter:home.search | filter:{'class' : home.data.filter} | filter:home.readLaterFilterFunction).length === 0" >
+            <div class="icon-newspaper logo"></div>
+            Uh Oh...No Articles Found
+        </div>
+        <div ng-if="home.data.listStyle === 'grid'">
+            <div ng-repeat="news in home.data.frontPage | filter:home.search | filter:{'class' : home.data.filter} track by news.hash" class="news-card" ng-class="{'show-image' : news.image}">
+                <div class="card-image">
+                    <img ng-src="{{news.image}}"/>
+                </div>
+                <a ng-href="{{news.url}}" target="_blank">
+                    <div class="card-content">
+                        <span class="icon-bookmark to-read-later {{news.class}}-ribbon" ng-class="{'active' : news.readLater === true}"></span>
+                        <h4><span class="circle {{news.class}}"></span> {{news.section}} &mdash; <span class="date">{{news.timeAgo}}</span></h4>
+                        <h2 ng-bind-html="home.bindHtml(news.title)"></h2>
+                        <span ng-bind-html="home.bindHtml(news.abstract)"></span>
+                    </div>
+                </a>
+                <div class="card-footer">
+                    <label title="{{news.byline}}">{{news.byline}}</label>
+                    <ul>
+                        <li ng-class="{'icon-clock' : news.readLater !== true, 'icon-clock2' : news.readLater === true}" title="Read Later" ng-click="home.addArticle($event, news.hash)"></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div ng-if="home.data.listStyle === 'list'">
+            <div ng-repeat="news in home.data.frontPage | filter:home.search | filter:{'class' : home.data.filter} | filter:home.readLaterFilterFunction track by news.hash" class="news-list" ng-class="{'show-image' : news.image}">
+                <div class="list-item">
+                    <a ng-href="{{news.url}}" target="_blank">
+                        <div class="list-row">
+                            <div class="list-column image-column" ng-if="news.image">
+                                <div class="list-image">
+                                    <img ng-src="{{news.image}}"/>
+                                </div>
+                            </div>
+                            <div class="list-column">
+                                <div class="list-content">
+                                    <span class="icon-bookmark to-read-later {{news.class}}-ribbon" ng-class="{'active' : news.readLater === true}"></span>
+                                    <h4><span class="circle {{news.class}}"></span> {{news.section}} &mdash; <span class="date">{{news.timeAgo}}</span></h4>
+                                    <h2 ng-bind-html="home.bindHtml(news.title)"></h2>
+                                    <div ng-bind-html="home.bindHtml(news.abstract)" class="abstract"></div>
+                                    <label title="{{news.byline}}">{{news.byline}}</label>
+                                </div>
+                                <div class="list-footer" ng-if="news.des_facet">
+                                    <div class="news-tags">
+                                        <span class="icon-tags"></span> <span class="tag" ng-repeat="tag in news.des_facet" ng-if="$index < 2">{{tag}}</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                    <div class="read-later">
+                        <span title="Read Later" ng-class="{'icon-clock' : news.readLater !== true, 'icon-clock2' : news.readLater === true}" ng-click="home.addArticle($event, news.hash)"></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,1635 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2015 The New York Times Company. All Rights Reserved.",
+  "section": "sports",
+  "last_updated": "2015-08-10T23:40:09-05:00",
+  "num_results": 30,
+  "results": [
+    {
+      "section": "Sports",
+      "subsection": "Golf",
+      "title": "At Whistling Straits, Golfers Will Have to Go Against the Grains",
+      "abstract": "P.G.A. Championship officials have said that, as in 2010, when Dustin Johnson was assessed a controversial penalty, the roughly 1,000 sand patches strewn about the property are again bunkers.",
+      "url": "http://www.nytimes.com/2015/08/11/sports/golf/at-whistling-straits-golfers-will-have-to-go-against-the-grains.html",
+      "byline": "By BILL PENNINGTON",
+      "item_type": "Article",
+      "updated_date": "2015-08-10T21:25:55-5:00",
+      "created_date": "2015-08-10T21:25:57-5:00",
+      "published_date": "2015-08-11T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Golf",
+        "PGA Championship"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "Johnson, Dustin"
+      ],
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/Y-JP-PGA/Y-JP-PGA-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dustin Johnson hitting out of a bunker on No. 18 at the 2010 P.G.A. Championship at Whistling Straits, where he was assessed a two-stroke penalty.",
+          "copyright": "Andy Lyons/Getty Images"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/Y-JP-PGA/Y-JP-PGA-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dustin Johnson hitting out of a bunker on No. 18 at the 2010 P.G.A. Championship at Whistling Straits, where he was assessed a two-stroke penalty.",
+          "copyright": "Andy Lyons/Getty Images"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/Y-JP-PGA/Y-JP-PGA-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dustin Johnson hitting out of a bunker on No. 18 at the 2010 P.G.A. Championship at Whistling Straits, where he was assessed a two-stroke penalty.",
+          "copyright": "Andy Lyons/Getty Images"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/Y-JP-PGA/Y-JP-PGA-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dustin Johnson hitting out of a bunker on No. 18 at the 2010 P.G.A. Championship at Whistling Straits, where he was assessed a two-stroke penalty.",
+          "copyright": "Andy Lyons/Getty Images"
+        }
+      ]
+    },
+    {
+      "section": "Sports",
+      "subsection": "Golf",
+      "title": "Rory McIlroy Says He’s ‘100 Percent’ for P.G.A. Championship",
+      "abstract": "McIlroy, who ruptured ankle ligaments while playing soccer on July 4, said he would tee off in a much-anticipated Thursday grouping with Jordan Spieth and Zach Johnson.",
+      "url": "http://www.nytimes.com/2015/08/11/sports/golf/rory-mcilroysays-hes-100-percent-for-pga-championship.html",
+      "byline": "By BILL PENNINGTON",
+      "item_type": "Article",
+      "updated_date": "2015-08-10T19:44:24-5:00",
+      "created_date": "2015-08-10T19:44:27-5:00",
+      "published_date": "2015-08-11T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Golf",
+        "PGA Championship"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "McIlroy, Rory"
+      ],
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/Y-MCILROY/Y-MCILROY-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rory McIlroy after a practice round Monday. McIlroy, the world No. 1, missed the Scottish Open, the British Open and the Bridgestone Invitational.",
+          "copyright": "Andrew Redington/Getty Images"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/Y-MCILROY/Y-MCILROY-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rory McIlroy after a practice round Monday. McIlroy, the world No. 1, missed the Scottish Open, the British Open and the Bridgestone Invitational.",
+          "copyright": "Andrew Redington/Getty Images"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/Y-MCILROY/Y-MCILROY-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rory McIlroy after a practice round Monday. McIlroy, the world No. 1, missed the Scottish Open, the British Open and the Bridgestone Invitational.",
+          "copyright": "Andrew Redington/Getty Images"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/Y-MCILROY/Y-MCILROY-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rory McIlroy after a practice round Monday. McIlroy, the world No. 1, missed the Scottish Open, the British Open and the Bridgestone Invitational.",
+          "copyright": "Andrew Redington/Getty Images"
+        }
+      ]
+    },
+    {
+      "section": "Sports",
+      "subsection": "Golf",
+      "title": "Australian Brothers Cherish Their Reunion at P.G.A. Championship",
+      "abstract": "In the P.G.A. Championship, Matt Jones, who has three top-10 finishes on the tour this year, will be joined by Brett Jones, a club pro in New Jersey.",
+      "url": "http://www.nytimes.com/2015/08/09/sports/australian-brothers-cherish-their-reunion-at-pga-championship.html",
+      "byline": "By BRENDAN PRUNTY",
+      "item_type": "Article",
+      "updated_date": "2015-08-08T15:34:36-5:00",
+      "created_date": "2015-08-08T15:34:39-5:00",
+      "published_date": "2015-08-09T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "PGA Championship",
+        "Golf"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "Jones, Matt (1980- )",
+        "Jones, Brett (Golf)"
+      ],
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/09/sports/DOG-09pga1/DOG-09pga1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Matt Jones, at the British Open last month, will be joined at the P.G.A. Championship this week by his brother, Brett.",
+          "copyright": "Jon Super/Associated Press"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/09/sports/DOG-09pga1/DOG-09pga1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Matt Jones, at the British Open last month, will be joined at the P.G.A. Championship this week by his brother, Brett.",
+          "copyright": "Jon Super/Associated Press"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/09/sports/DOG-09pga1/DOG-09pga1-articleInline.jpg",
+          "format": "Normal",
+          "height": 126,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Matt Jones, at the British Open last month, will be joined at the P.G.A. Championship this week by his brother, Brett.",
+          "copyright": "Jon Super/Associated Press"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/09/sports/DOG-09pga1/DOG-09pga1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Matt Jones, at the British Open last month, will be joined at the P.G.A. Championship this week by his brother, Brett.",
+          "copyright": "Jon Super/Associated Press"
+        }
+      ]
+    },
+    {
+      "section": "Sports",
+      "subsection": "Baseball",
+      "title": "Mets Top Rockies as Michael Cuddyer Comes Off D.L., and Sits",
+      "abstract": "While Cuddyer was out with a knee injury, the Mets acquired three veterans, and a top prospect earned their trust. So Cuddyer, even while earning $8.5 million this year, could become a bench player.",
+      "url": "http://www.nytimes.com/2015/08/11/sports/baseball/mets-michael-cuddyer-finds-job-is-no-longer-his-alone.html",
+      "byline": "By TIM ROHAN",
+      "item_type": "Article",
+      "updated_date": "2015-08-10T22:01:45-5:00",
+      "created_date": "2015-08-10T22:01:47-5:00",
+      "published_date": "2015-08-11T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Baseball"
+      ],
+      "org_facet": [
+        "New York Mets",
+        "Colorado Rockies"
+      ],
+      "per_facet": [
+        "Cuddyer, Michael",
+        "Collins, Terry L",
+        "Conforto, Michael",
+        "Matz, Steven (1991- )"
+      ],
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/Y-METS/Y-METS-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Mets’ Michael Cuddyer, right, with the Rockies’ first-base coach, Eric Young, before the start of Monday’s game at Citi Field.",
+          "copyright": "Rich Schultz/Getty Images"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/Y-METS/Y-METS-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Mets’ Michael Cuddyer, right, with the Rockies’ first-base coach, Eric Young, before the start of Monday’s game at Citi Field.",
+          "copyright": "Rich Schultz/Getty Images"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/Y-METS/Y-METS-articleInline.jpg",
+          "format": "Normal",
+          "height": 128,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Mets’ Michael Cuddyer, right, with the Rockies’ first-base coach, Eric Young, before the start of Monday’s game at Citi Field.",
+          "copyright": "Rich Schultz/Getty Images"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/Y-METS/Y-METS-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Mets’ Michael Cuddyer, right, with the Rockies’ first-base coach, Eric Young, before the start of Monday’s game at Citi Field.",
+          "copyright": "Rich Schultz/Getty Images"
+        }
+      ]
+    },
+    {
+      "section": "Sports",
+      "subsection": "Baseball",
+      "title": "David Wright Looks Good in First Rehab Start",
+      "abstract": "Wright, wearing his Mets helmet while playing in a game for the first time since April 14, went 1 for 3 with a walk as the designated hitter for Class A St. Lucie.",
+      "url": "http://www.nytimes.com/2015/08/11/sports/baseball/david-wright-looks-good-in-first-rehab-start.html",
+      "byline": "By ROB HARMS",
+      "item_type": "Article",
+      "updated_date": "2015-08-10T22:09:58-5:00",
+      "created_date": "2015-08-10T22:10:00-5:00",
+      "published_date": "2015-08-11T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Baseball"
+      ],
+      "org_facet": [
+        "New York Mets"
+      ],
+      "per_facet": [
+        "Wright, David"
+      ],
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/CITY-WRIGHT/CITY-WRIGHT-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "David Wright during the first inning Monday. He had completed five consecutive days of workouts in Port St. Lucie.",
+          "copyright": "Molly Bartels for The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/CITY-WRIGHT/CITY-WRIGHT-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "David Wright during the first inning Monday. He had completed five consecutive days of workouts in Port St. Lucie.",
+          "copyright": "Molly Bartels for The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/CITY-WRIGHT/CITY-WRIGHT-articleInline.jpg",
+          "format": "Normal",
+          "height": 282,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "David Wright during the first inning Monday. He had completed five consecutive days of workouts in Port St. Lucie.",
+          "copyright": "Molly Bartels for The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/CITY-WRIGHT/CITY-WRIGHT-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "David Wright during the first inning Monday. He had completed five consecutive days of workouts in Port St. Lucie.",
+          "copyright": "Molly Bartels for The New York Times"
+        }
+      ]
+    },
+    {
+      "section": "Sports",
+      "subsection": "Soccer",
+      "title": "NBC Retains Rights to Premier League in Six-Year Deal",
+      "abstract": "NBC, which has used English soccer to define its NBCSN cable network, made a deal worth about $1 billion, basically double the annual cost of NBC’s current contract.",
+      "url": "http://www.nytimes.com/2015/08/11/sports/soccer/nbc-retains-rights-to-premier-league-in-six-year-deal.html",
+      "byline": "By RICHARD SANDOMIR",
+      "item_type": "Article",
+      "updated_date": "2015-08-10T20:36:46-5:00",
+      "created_date": "2015-08-10T12:40:24-5:00",
+      "published_date": "2015-08-11T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Soccer",
+        "Television"
+      ],
+      "org_facet": [
+        "NBC Sports Network",
+        "English Premier League",
+        "National Broadcasting Co"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/Y-EPLTV/Y-EPLTV-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "NBCSN’s studios in Stamford, Conn., in 2013. Last season, the combined viewership of Premier League games on NBC and NBCSN climbed to an average of 479,000.",
+          "copyright": "Tim Clayton for The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/Y-EPLTV/Y-EPLTV-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "NBCSN’s studios in Stamford, Conn., in 2013. Last season, the combined viewership of Premier League games on NBC and NBCSN climbed to an average of 479,000.",
+          "copyright": "Tim Clayton for The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/Y-EPLTV/Y-EPLTV-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "NBCSN’s studios in Stamford, Conn., in 2013. Last season, the combined viewership of Premier League games on NBC and NBCSN climbed to an average of 479,000.",
+          "copyright": "Tim Clayton for The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/Y-EPLTV/Y-EPLTV-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "NBCSN’s studios in Stamford, Conn., in 2013. Last season, the combined viewership of Premier League games on NBC and NBCSN climbed to an average of 479,000.",
+          "copyright": "Tim Clayton for The New York Times"
+        }
+      ]
+    },
+    {
+      "section": "Sports",
+      "subsection": "Soccer",
+      "title": "Live and Kicking: Soccer Games to Watch This Week",
+      "abstract": "Barcelona’s busy, Bayern kicks off, and Chelsea battles Manchester City. The soccer editor Andrew Das tells you what to watch.",
+      "url": "http://www.nytimes.com/2015/08/11/sports/soccer/live-and-kicking-soccer-games-to-watch-this-week.html",
+      "byline": "By ANDREW DAS",
+      "item_type": "Article",
+      "updated_date": "2015-08-10T12:32:50-5:00",
+      "created_date": "2015-08-10T12:32:52-5:00",
+      "published_date": "2015-08-11T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Soccer"
+      ],
+      "org_facet": [
+        "Barcelona (Soccer Team)",
+        "Bayern Munich (Soccer Team)",
+        "Chelsea (Soccer Team)",
+        "English Premier League",
+        "Manchester City (Soccer Team)"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/11SOCCERWATCHweb/11SOCCERWATCHweb-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lionel Messi, left, and his Barcelona teammates have a busy run ahead of them.",
+          "copyright": "Francisco Seco/Associated Press"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/11SOCCERWATCHweb/11SOCCERWATCHweb-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lionel Messi, left, and his Barcelona teammates have a busy run ahead of them.",
+          "copyright": "Francisco Seco/Associated Press"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/11SOCCERWATCHweb/11SOCCERWATCHweb-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lionel Messi, left, and his Barcelona teammates have a busy run ahead of them.",
+          "copyright": "Francisco Seco/Associated Press"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/11SOCCERWATCHweb/11SOCCERWATCHweb-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lionel Messi, left, and his Barcelona teammates have a busy run ahead of them.",
+          "copyright": "Francisco Seco/Associated Press"
+        }
+      ]
+    },
+    {
+      "section": "Sports",
+      "subsection": "",
+      "title": "Gear Dispute Costs Nick Symmonds a Trip to Track Worlds",
+      "abstract": "A top 800-meter runner has refused to sign a document that requires American athletes to wear Nike gear at official team functions at the world championships, which begin Aug. 22 in Beijing.",
+      "url": "http://www.nytimes.com/2015/08/11/sports/nick-symmonds-dropped-from-world-championships-team-he-says.html",
+      "byline": "By JERÉ LONGMAN",
+      "item_type": "Article",
+      "updated_date": "2015-08-10T20:52:46-5:00",
+      "created_date": "2015-08-10T10:10:23-5:00",
+      "published_date": "2015-08-11T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Track and Field"
+      ],
+      "org_facet": [
+        "USA Track and Field"
+      ],
+      "per_facet": [
+        "Symmonds, Nick"
+      ],
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/11SPONSORSweb/11SPONSORSweb-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Nick Symmonds winning the 800 meters at the United States track and field championships in Eugene, Ore., in June.",
+          "copyright": "Don Ryan/Associated Press"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/11SPONSORSweb/11SPONSORSweb-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Nick Symmonds winning the 800 meters at the United States track and field championships in Eugene, Ore., in June.",
+          "copyright": "Don Ryan/Associated Press"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/11SPONSORSweb/11SYMMONDSweb-articleInline.jpg",
+          "format": "Normal",
+          "height": 151,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Nick Symmonds winning the 800 meters at the United States track and field championships in Eugene, Ore., in June.",
+          "copyright": "Don Ryan/Associated Press"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/11SPONSORSweb/11SYMMONDSweb-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Nick Symmonds winning the 800 meters at the United States track and field championships in Eugene, Ore., in June.",
+          "copyright": "Don Ryan/Associated Press"
+        }
+      ]
+    },
+    {
+      "section": "Sports",
+      "subsection": "",
+      "title": "Los Angeles Is a Frugal, if Not Flashy, Option for the 2024 Games",
+      "abstract": "With some of the infrastructure already in place and ready to be reused, Los Angeles is considered the most likely American candidate to host the 2024 Olympics following the collapse of Boston’s bid.",
+      "url": "http://www.nytimes.com/2015/08/11/sports/olympics/los-angeles-may-have-a-big-advantage-in-an-olympic-bid-frugality.html",
+      "byline": "By IAN LOVETT",
+      "item_type": "Article",
+      "updated_date": "2015-08-10T11:54:33-5:00",
+      "created_date": "2015-08-10T11:54:35-5:00",
+      "published_date": "2015-08-11T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Olympic Games (2024)",
+        "Olympic Games"
+      ],
+      "org_facet": [
+        "International Olympic Committee",
+        "Los Angeles Memorial Coliseum",
+        "United States Olympic Committee"
+      ],
+      "per_facet": "",
+      "geo_facet": [
+        "Los Angeles (Calif)"
+      ],
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/11OLYMPICSweb1/11OLYMPICSweb1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Los Angeles Memorial Coliseum, built for the 1932 Olympics and used again as the host stadium in 1984.",
+          "copyright": "Monica Almeida/The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/11OLYMPICSweb1/11OLYMPICSweb1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Los Angeles Memorial Coliseum, built for the 1932 Olympics and used again as the host stadium in 1984.",
+          "copyright": "Monica Almeida/The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/11OLYMPICSweb1/11OLYMPICSweb1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Los Angeles Memorial Coliseum, built for the 1932 Olympics and used again as the host stadium in 1984.",
+          "copyright": "Monica Almeida/The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/11OLYMPICSweb1/11OLYMPICSweb1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Los Angeles Memorial Coliseum, built for the 1932 Olympics and used again as the host stadium in 1984.",
+          "copyright": "Monica Almeida/The New York Times"
+        }
+      ]
+    },
+    {
+      "section": "Sports",
+      "subsection": "Tennis",
+      "title": "Marin Cilic Struggles to Get Back Into Zone After U.S. Open Success",
+      "abstract": "As the No. 14 seed last year, Cilic claimed his first Grand Slam title. But since then, he has been bothered by a shoulder injury and has yet to reach the final of any tournament.",
+      "url": "http://www.nytimes.com/2015/08/11/sports/tennis/marin-cilic-struggles-to-get-back-into-zone-afterus-open-success.html",
+      "byline": "By BEN ROTHENBERG",
+      "item_type": "Article",
+      "updated_date": "2015-08-10T21:39:38-5:00",
+      "created_date": "2015-08-10T21:39:39-5:00",
+      "published_date": "2015-08-11T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Tennis",
+        "United States Open (Tennis)"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "Cilic, Marin"
+      ],
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/11TENNISweb/11TENNISweb-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Marin Cilic playing last week in the Citi Open, where he lost in the semifinals. He has not reached a final since his United States Open win.",
+          "copyright": "Patrick Smith/Getty Images"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/11TENNISweb/11TENNISweb-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Marin Cilic playing last week in the Citi Open, where he lost in the semifinals. He has not reached a final since his United States Open win.",
+          "copyright": "Patrick Smith/Getty Images"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/11TENNISweb/11TENNISweb-articleInline.jpg",
+          "format": "Normal",
+          "height": 107,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Marin Cilic playing last week in the Citi Open, where he lost in the semifinals. He has not reached a final since his United States Open win.",
+          "copyright": "Patrick Smith/Getty Images"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/11TENNISweb/11TENNISweb-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Marin Cilic playing last week in the Citi Open, where he lost in the semifinals. He has not reached a final since his United States Open win.",
+          "copyright": "Patrick Smith/Getty Images"
+        }
+      ]
+    },
+    {
+      "section": "Sports",
+      "subsection": "Baseball",
+      "title": "Blue Jays’ Record Catches Up to Expectations",
+      "abstract": "Toronto, which had a losing record on July 29, made some significant acquisitions. But the team’s run differential indicated that a powerful team was waiting to emerge all along.",
+      "url": "http://www.nytimes.com/2015/08/11/sports/baseball/given-blue-jays-run-differential-recent-surge-is-no-surprise.html",
+      "byline": "By VICTOR MATHER",
+      "item_type": "Article",
+      "updated_date": "2015-08-10T23:10:21-5:00",
+      "created_date": "2015-08-10T10:58:16-5:00",
+      "published_date": "2015-08-11T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Baseball",
+        "Statistics"
+      ],
+      "org_facet": [
+        "Toronto Blue Jays",
+        "New York Yankees",
+        "Chicago Cubs"
+      ],
+      "per_facet": [
+        "Price, David Taylor",
+        "Tulowitzki, Troy"
+      ],
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/Y-JAYS/Y-JAYS-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Troy Tulowitzki, left, and Dioner Navarro after Navarro homered on July 30, during Tulowitzki’s Toronto debut.",
+          "copyright": "Tom Szczerbowski/Getty Images"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/Y-JAYS/Y-JAYS-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Troy Tulowitzki, left, and Dioner Navarro after Navarro homered on July 30, during Tulowitzki’s Toronto debut.",
+          "copyright": "Tom Szczerbowski/Getty Images"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/Y-JAYS/Y-JAYS-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Troy Tulowitzki, left, and Dioner Navarro after Navarro homered on July 30, during Tulowitzki’s Toronto debut.",
+          "copyright": "Tom Szczerbowski/Getty Images"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/Y-JAYS/Y-JAYS-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Troy Tulowitzki, left, and Dioner Navarro after Navarro homered on July 30, during Tulowitzki’s Toronto debut.",
+          "copyright": "Tom Szczerbowski/Getty Images"
+        }
+      ]
+    },
+    {
+      "section": "N.Y. / Region",
+      "subsection": "",
+      "title": "The Jeter of Yankee Stadium Cameramen",
+      "abstract": "To many fans at Yankee Stadium, Eric Capstick, 53, is as welcome a sight as a star player. His job is to shoot them in the stands for real-time display on the big screens.",
+      "url": "http://www.nytimes.com/2015/08/09/nyregion/the-jeter-of-yankee-stadium-cameramen.html",
+      "byline": "By COREY KILGANNON",
+      "item_type": "Article",
+      "updated_date": "2015-08-06T17:53:33-5:00",
+      "created_date": "2015-08-06T17:53:35-5:00",
+      "published_date": "2015-08-09T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Baseball",
+        "Cameras"
+      ],
+      "org_facet": [
+        "New York Yankees",
+        "Yankee Stadium (NYC)"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/09/nyregion/09CHARACTER/09CHARACTER-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Eric Capstick, a cameraman at Yankee Stadium, gets almost as much attention as the players.",
+          "copyright": "Sam Hodgson for The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/09/nyregion/09CHARACTER/09CHARACTER-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Eric Capstick, a cameraman at Yankee Stadium, gets almost as much attention as the players.",
+          "copyright": "Sam Hodgson for The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/09/nyregion/09CHARACTER/09CHARACTER-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Eric Capstick, a cameraman at Yankee Stadium, gets almost as much attention as the players.",
+          "copyright": "Sam Hodgson for The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/09/nyregion/09CHARACTER/09CHARACTER-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Eric Capstick, a cameraman at Yankee Stadium, gets almost as much attention as the players.",
+          "copyright": "Sam Hodgson for The New York Times"
+        }
+      ]
+    },
+    {
+      "section": "N.Y. / Region",
+      "subsection": "",
+      "title": "2 Sayreville Football Players Cleared of Serious Charges in Hazing Case",
+      "abstract": "The players, both 17 at the time of the episode, had been charged with aggravated sexual contact and aggravated assault; they were found guilty of two disorderly persons charges.",
+      "url": "http://www.nytimes.com/2015/08/11/nyregion/2-sayreville-football-players-cleared-of-serious-charges-in-hazing-case.html",
+      "byline": "By ANDY NEWMAN and JASON GRANT",
+      "item_type": "Article",
+      "updated_date": "2015-08-10T17:48:43-5:00",
+      "created_date": "2015-08-10T12:52:16-5:00",
+      "published_date": "2015-08-11T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Football",
+        "Hazing",
+        "Assaults"
+      ],
+      "org_facet": [
+        "Sayreville War Memorial High School (Sayreville, NJ)"
+      ],
+      "per_facet": "",
+      "geo_facet": [
+        "Sayreville (NJ)"
+      ],
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/nyregion/Sayrevilleweb1/Sayrevilleweb1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Seven football players at Sayreville War Memorial High School were accused last fall of attacking freshmen in a locker room.",
+          "copyright": "Kena Betancur/Getty Images"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/nyregion/Sayrevilleweb1/Sayrevilleweb1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Seven football players at Sayreville War Memorial High School were accused last fall of attacking freshmen in a locker room.",
+          "copyright": "Kena Betancur/Getty Images"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/nyregion/Sayrevilleweb1/Sayrevilleweb1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Seven football players at Sayreville War Memorial High School were accused last fall of attacking freshmen in a locker room.",
+          "copyright": "Kena Betancur/Getty Images"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/nyregion/Sayrevilleweb1/Sayrevilleweb1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Seven football players at Sayreville War Memorial High School were accused last fall of attacking freshmen in a locker room.",
+          "copyright": "Kena Betancur/Getty Images"
+        }
+      ]
+    },
+    {
+      "section": "Sports",
+      "subsection": "Pro Football",
+      "title": "2015 Fantasy Football: Quarterback Preview and Rankings",
+      "abstract": "The quarterback position is deep once again, but knowing where to pick one could make all the difference on draft day.",
+      "url": "http://www.nytimes.com/2015/08/11/sports/football/2015-fantasy-football-quarterback-preview-and-rankings.html",
+      "byline": "By JASON SABLICH and JUSTIN SABLICH",
+      "item_type": "Article",
+      "updated_date": "2015-08-10T01:05:36-5:00",
+      "created_date": "2015-08-10T01:05:38-5:00",
+      "published_date": "2015-08-11T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Fantasy Sports",
+        "Football"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": ""
+    },
+    {
+      "section": "Sports",
+      "subsection": "Hockey",
+      "title": "Gus Mortson, Defenseman Who Helped Toronto Win Four Stanley Cups, Dies at 90",
+      "abstract": "Mortson teamed with Jim Thomson in a Maple Leafs pairing that was among the league’s toughest.",
+      "url": "http://www.nytimes.com/2015/08/11/sports/hockey/gus-mortson-defenseman-who-helped-toronto-win-four-stanley-cups-dies-at-90.html",
+      "byline": "By RICHARD GOLDSTEIN",
+      "item_type": "Article",
+      "updated_date": "2015-08-10T18:42:05-5:00",
+      "created_date": "2015-08-10T18:42:07-5:00",
+      "published_date": "2015-08-11T04:00:00-5:00",
+      "material_type_facet": "Obituary (Obit)",
+      "kicker": "",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Hockey, Ice",
+        "Stanley Cup"
+      ],
+      "org_facet": [
+        "National Hockey League",
+        "Toronto Maple Leafs"
+      ],
+      "per_facet": [
+        "Mortson, Gus"
+      ],
+      "geo_facet": [
+        "Toronto (Ontario)"
+      ],
+      "multimedia": ""
+    },
+    {
+      "section": "Sports",
+      "subsection": "Auto Racing",
+      "title": "Buddy Baker, Winner of the 1980 Daytona 500, Dies at 74",
+      "abstract": "Baker, Nascar&#8217;s &#8220;Gentle Giant,&#8221; was the first driver to exceed 200 miles per hour on a closed course.",
+      "url": "http://www.nytimes.com/2015/08/11/sports/autoracing/buddy-baker-winner-of-the-1980-daytona-500-dies-at-74.html",
+      "byline": "By THE ASSOCIATED PRESS",
+      "item_type": "Article",
+      "updated_date": "2015-08-10T18:53:00-5:00",
+      "created_date": "2015-08-10T18:53:02-5:00",
+      "published_date": "2015-08-11T04:00:00-5:00",
+      "material_type_facet": "Obituary (Obit)",
+      "kicker": "",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Automobile Racing",
+        "Daytona 500 (Auto Race)"
+      ],
+      "org_facet": [
+        "National Assn of Stock Car Auto Racing"
+      ],
+      "per_facet": [
+        "Baker, Buddy"
+      ],
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/11baker-obit/11baker-obit-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Buddy Baker after winning the pole for the 1969 Daytona 500. He won the race in 1980.",
+          "copyright": "Associated Press"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/11baker-obit/11baker-obit-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Buddy Baker after winning the pole for the 1969 Daytona 500. He won the race in 1980.",
+          "copyright": "Associated Press"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/11baker-obit/11baker-obit-articleInline.jpg",
+          "format": "Normal",
+          "height": 267,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Buddy Baker after winning the pole for the 1969 Daytona 500. He won the race in 1980.",
+          "copyright": "Associated Press"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/11baker-obit/11baker-obit-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Buddy Baker after winning the pole for the 1969 Daytona 500. He won the race in 1980.",
+          "copyright": "Associated Press"
+        }
+      ]
+    },
+    {
+      "section": "Sports",
+      "subsection": "Hockey",
+      "title": "Rangers Sign Center Jarret Stoll",
+      "abstract": "Stoll, who won two Stanley Cups with the Los Angeles Kings, joined the Rangers a few months after he pleaded guilty in a felony cocaine case.",
+      "url": "http://www.nytimes.com/2015/08/11/sports/hockey/rangers-sign-center-jarret-stoll.html",
+      "byline": "By THE ASSOCIATED PRESS",
+      "item_type": "Article",
+      "updated_date": "2015-08-10T17:58:36-5:00",
+      "created_date": "2015-08-10T14:06:39-5:00",
+      "published_date": "2015-08-11T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Hockey, Ice",
+        "Free Agents (Sports)"
+      ],
+      "org_facet": [
+        "New York Rangers"
+      ],
+      "per_facet": [
+        "Stoll, Jarret"
+      ],
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/11RANGERSweb/11RANGERSweb-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jarret Stoll with the Kings last year. Stoll, 33, gives the Rangers a top face-off man and penalty killer.",
+          "copyright": "Jae C. Hong/Associated Press"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/11RANGERSweb/11RANGERSweb-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jarret Stoll with the Kings last year. Stoll, 33, gives the Rangers a top face-off man and penalty killer.",
+          "copyright": "Jae C. Hong/Associated Press"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/11RANGERSweb/11RANGERSweb-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jarret Stoll with the Kings last year. Stoll, 33, gives the Rangers a top face-off man and penalty killer.",
+          "copyright": "Jae C. Hong/Associated Press"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/11RANGERSweb/11RANGERSweb-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jarret Stoll with the Kings last year. Stoll, 33, gives the Rangers a top face-off man and penalty killer.",
+          "copyright": "Jae C. Hong/Associated Press"
+        }
+      ]
+    },
+    {
+      "section": "Sports",
+      "subsection": "Pro Football",
+      "title": "Patriots Shake Up Their Quarterback Roster",
+      "abstract": "New England released Matt Flynn, who had been on the nonfootball injury list, and signed Ryan Lindley, a former Cardinals quarterback, to be the third-stringer.",
+      "url": "http://www.nytimes.com/2015/08/11/sports/football/patriots-shake-up-their-quarterback-roster.html",
+      "byline": "By THE ASSOCIATED PRESS",
+      "item_type": "Article",
+      "updated_date": "2015-08-10T23:38:31-5:00",
+      "created_date": "2015-08-10T23:38:31-5:00",
+      "published_date": "2015-08-11T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Football"
+      ],
+      "org_facet": [
+        "New England Patriots",
+        "Pittsburgh Steelers",
+        "Carolina Panthers"
+      ],
+      "per_facet": [
+        "Flynn, Matt",
+        "Lindley, Ryan (1989- )",
+        "Newton, Cameron J"
+      ],
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/CITY-CAMPS/CITY-CAMPS-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Matt Flynn in June. Ryan Lindley replaced him on Monday as New England’s third-string quarterback.",
+          "copyright": "Stephan Savoia/Associated Press"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/CITY-CAMPS/CITY-CAMPS-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Matt Flynn in June. Ryan Lindley replaced him on Monday as New England’s third-string quarterback.",
+          "copyright": "Stephan Savoia/Associated Press"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/CITY-CAMPS/CITY-CAMPS-articleInline.jpg",
+          "format": "Normal",
+          "height": 135,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Matt Flynn in June. Ryan Lindley replaced him on Monday as New England’s third-string quarterback.",
+          "copyright": "Stephan Savoia/Associated Press"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/CITY-CAMPS/CITY-CAMPS-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Matt Flynn in June. Ryan Lindley replaced him on Monday as New England’s third-string quarterback.",
+          "copyright": "Stephan Savoia/Associated Press"
+        }
+      ]
+    },
+    {
+      "section": "Sports",
+      "subsection": "",
+      "title": "Government Explains Push for Lance Armstrong’s Medical Records",
+      "abstract": "The government said the records from Armstrong’s 1996 cancer treatments could prove just how far he was willing to go to conceal performance-enhancing-drug use.",
+      "url": "http://www.nytimes.com/aponline/2015/08/10/sports/ap-cyc-armstrong-investigation.html",
+      "byline": "By THE ASSOCIATED PRESS",
+      "item_type": "Article",
+      "updated_date": "2015-08-10T11:43:54-5:00",
+      "created_date": "2015-08-10T11:43:55-5:00",
+      "published_date": "2015-08-10T15:41:49-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": "",
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": ""
+    },
+    {
+      "section": "Sports",
+      "subsection": "",
+      "title": "Officials Deny Dirty Water Made Rowers in Rio Sick",
+      "abstract": "United States officials confirmed that 15 members of the team fell ill after the world junior championships but said that was not abnormal in international events.",
+      "url": "http://www.nytimes.com/reuters/2015/08/10/sports/soccer/10reuters-olympics-water-rowing.html",
+      "byline": "By REUTERS",
+      "item_type": "Article",
+      "updated_date": "2015-08-10T21:10:34-5:00",
+      "created_date": "2015-08-10T17:34:35-5:00",
+      "published_date": "2015-08-10T21:31:52-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": "",
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": ""
+    },
+    {
+      "section": "Sports",
+      "subsection": "Pro Football",
+      "title": "Arena League Teams in Las Vegas and New Orleans Fold",
+      "abstract": "A league announcement said the Las Vegas Outlaws and the New Orleans VooDoo had ceased operations. The decision leaves the league with 10 teams.",
+      "url": "http://www.nytimes.com/aponline/2015/08/10/us/ap-fba-arena-football-teams-fold.html",
+      "byline": "By THE ASSOCIATED PRESS",
+      "item_type": "Article",
+      "updated_date": "2015-08-10T11:50:00-5:00",
+      "created_date": "2015-08-10T11:50:05-5:00",
+      "published_date": "2015-08-10T15:48:22-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": "",
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": ""
+    },
+    {
+      "section": "Sports",
+      "subsection": "Pro Football",
+      "title": "Frank Gifford, Star for the Giants and in Broadcast Booth, Dies at 84",
+      "abstract": "Gifford was a Hall of Fame running back and receiver who personified the Giants’ glory years of the late 1950s and early ’60s and then became a mainstay on television.",
+      "url": "http://www.nytimes.com/2015/08/10/sports/football/frank-gifford-early-nfl-celebrity-as-player-and-broadcaster-dies-at-84.html",
+      "byline": "By RICHARD GOLDSTEIN and BRUCE WEBER",
+      "item_type": "Article",
+      "updated_date": "2015-08-09T23:07:41-5:00",
+      "created_date": "2015-08-09T15:40:10-5:00",
+      "published_date": "2015-08-10T04:00:00-5:00",
+      "material_type_facet": "Obituary (Obit)",
+      "kicker": "",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Football",
+        "Television"
+      ],
+      "org_facet": [
+        "New York Giants",
+        "ABC Inc"
+      ],
+      "per_facet": [
+        "Gifford, Frank"
+      ],
+      "geo_facet": "",
+      "multimedia": ""
+    },
+    {
+      "section": "Sports",
+      "subsection": "Soccer",
+      "title": "How 14 Indicted FIFA Officials Currently Stand",
+      "abstract": "Updating the legal status of the soccer and sports marketing officials charged in the FIFA corruption case.",
+      "url": "http://www.nytimes.com/2015/08/08/sports/soccer/how-14-indicted-fifa-officials-currently-stand.html",
+      "byline": "By REBECCA R. RUIZ",
+      "item_type": "Article",
+      "updated_date": "2015-08-08T00:24:49-5:00",
+      "created_date": "2015-08-08T00:24:51-5:00",
+      "published_date": "2015-08-08T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Soccer",
+        "Ethics and Official Misconduct"
+      ],
+      "org_facet": [
+        "International Federation of Association Football (FIFA)",
+        "Justice Department"
+      ],
+      "per_facet": [
+        "Burzaco, Alejandro",
+        "Davidson, Aaron (1971- )",
+        "Figueredo, Eugenio (1932- )",
+        "Jinkis, Hugo",
+        "Jinkis, Mariano",
+        "Leoz, Nicolas (1928- )",
+        "Li Sanchez, Eduardo (1958- )",
+        "Margulies, Jose",
+        "Marin, Jose Maria (1932- )",
+        "Rocha Lopez, Julio",
+        "Takkas, Costas",
+        "Warner, Jack (1943- )",
+        "Webb, Jeffrey (1964- )",
+        "Esquivel Melo, Rafael (1946- )"
+      ],
+      "geo_facet": "",
+      "multimedia": ""
+    },
+    {
+      "section": "Sports",
+      "subsection": "Pro Football",
+      "title": "After Sydney Seau, Football Hall of Fame Policy Will Be Tested Again",
+      "abstract": "By giving Sydney Seau an abbreviated forum to speak on behalf of her father, the Pro Football Hall of Fame showed the folly of an exclusionary policy for dead inductees.",
+      "url": "http://www.nytimes.com/2015/08/10/sports/football/after-sydney-seau-football-hall-of-fame-policy-will-be-tested-again.html",
+      "byline": "By RICHARD SANDOMIR",
+      "item_type": "Article",
+      "updated_date": "2015-08-09T15:22:32-5:00",
+      "created_date": "2015-08-09T15:22:34-5:00",
+      "published_date": "2015-08-10T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Football"
+      ],
+      "org_facet": [
+        "Pro Football Hall of Fame",
+        "National Football League"
+      ],
+      "per_facet": [
+        "Seau, Junior",
+        "Seau, Sydney Beau"
+      ],
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/10/sports/10sandomir2/10sandomir2-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sydney Seau with her father's Hall of Fame bust at the Pro Football Hall of Fame induction ceremony in Canton, Ohio.",
+          "copyright": "Andrew Weber/USA Today Sports, via Reuters"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/10/sports/10sandomir2/10sandomir2-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sydney Seau with her father's Hall of Fame bust at the Pro Football Hall of Fame induction ceremony in Canton, Ohio.",
+          "copyright": "Andrew Weber/USA Today Sports, via Reuters"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/10/sports/10sandomir2/10sandomir2-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sydney Seau with her father's Hall of Fame bust at the Pro Football Hall of Fame induction ceremony in Canton, Ohio.",
+          "copyright": "Andrew Weber/USA Today Sports, via Reuters"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/10/sports/10sandomir2/10sandomir2-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sydney Seau with her father's Hall of Fame bust at the Pro Football Hall of Fame induction ceremony in Canton, Ohio.",
+          "copyright": "Andrew Weber/USA Today Sports, via Reuters"
+        }
+      ]
+    },
+    {
+      "section": "Sports",
+      "subsection": "Tennis",
+      "title": "Winning Mantra of ‘I’m Not Sick’ Propels Victoria Duval",
+      "abstract": "Duval, then 18, received a diagnosis of Hodgkin’s lymphoma, a cancer of the lymphatic system, the day before her first qualifying match at Wimbledon. She stayed and played.",
+      "url": "http://www.nytimes.com/2015/08/10/sports/tennis/winning-mantra-of-im-not-sick-propels-victoria-duval.html",
+      "byline": "By BEN ROTHENBERG",
+      "item_type": "Article",
+      "updated_date": "2015-08-10T12:16:39-5:00",
+      "created_date": "2015-08-09T21:19:28-5:00",
+      "published_date": "2015-08-10T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Tennis",
+        "Hodgkin's Lymphoma"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "Duval, Victoria"
+      ],
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/10/sports/Y-TENNIS/Y-TENNIS-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Victoria Duval, 19, last week in Bradenton, Fla. She learned that she had Hodgkin’s lymphoma in 2014. Thirteen months after her last match, she will compete this week at a tournament in Landisville, Pa.",
+          "copyright": "Melissa Lyttle for The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/10/sports/Y-TENNIS/Y-TENNIS-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Victoria Duval, 19, last week in Bradenton, Fla. She learned that she had Hodgkin’s lymphoma in 2014. Thirteen months after her last match, she will compete this week at a tournament in Landisville, Pa.",
+          "copyright": "Melissa Lyttle for The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/10/sports/Y-TENNIS/Y-TENNIS-articleInline-v3.jpg",
+          "format": "Normal",
+          "height": 140,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Victoria Duval, 19, last week in Bradenton, Fla. She learned that she had Hodgkin’s lymphoma in 2014. Thirteen months after her last match, she will compete this week at a tournament in Landisville, Pa.",
+          "copyright": "Melissa Lyttle for The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/10/sports/Y-TENNIS/Y-TENNIS-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Victoria Duval, 19, last week in Bradenton, Fla. She learned that she had Hodgkin’s lymphoma in 2014. Thirteen months after her last match, she will compete this week at a tournament in Landisville, Pa.",
+          "copyright": "Melissa Lyttle for The New York Times"
+        }
+      ]
+    },
+    {
+      "section": "Sports",
+      "subsection": "Baseball",
+      "title": "A Minor League Home Run King Without Major Fanfare",
+      "abstract": "Mike Hessman, 37, who now sits alone atop the career home run list for the affiliated minor leagues, is thankful to have had brief chances in the major leagues.",
+      "url": "http://www.nytimes.com/2015/08/09/sports/baseball/a-minor-league-home-run-king-without-major-fanfare.html",
+      "byline": "By TYLER KEPNER",
+      "item_type": "Article",
+      "updated_date": "2015-08-08T15:22:25-5:00",
+      "created_date": "2015-08-08T15:22:27-5:00",
+      "published_date": "2015-08-09T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Baseball"
+      ],
+      "org_facet": [
+        "Toledo Mud Hens"
+      ],
+      "per_facet": [
+        "Hessman, Mike"
+      ],
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/09/sports/DOG-09bases1/DOG-09bases1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mike Hessman was feted by his Toledo Mud Hens teammates last week for setting the affiliated minor leagues’ career home run record.",
+          "copyright": "Scott W. Grau/Toledo Mud Hens"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/09/sports/DOG-09bases1/DOG-09bases1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mike Hessman was feted by his Toledo Mud Hens teammates last week for setting the affiliated minor leagues’ career home run record.",
+          "copyright": "Scott W. Grau/Toledo Mud Hens"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/09/sports/DOG-09bases1/DOG-09bases1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mike Hessman was feted by his Toledo Mud Hens teammates last week for setting the affiliated minor leagues’ career home run record.",
+          "copyright": "Scott W. Grau/Toledo Mud Hens"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/09/sports/DOG-09bases1/DOG-09bases1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mike Hessman was feted by his Toledo Mud Hens teammates last week for setting the affiliated minor leagues’ career home run record.",
+          "copyright": "Scott W. Grau/Toledo Mud Hens"
+        }
+      ]
+    },
+    {
+      "section": "Sports",
+      "subsection": "Hockey",
+      "title": "Wanted: A Driver in Brooklyn. Must Use Care in Icy Conditions.",
+      "abstract": "The Islanders are relocating to Barclays Center next season and need someone to operate the Zamboni, but the job is more complex than it sounds.",
+      "url": "http://www.nytimes.com/2015/08/08/sports/hockey/wanted-a-driver-in-brooklyn-must-use-care-in-icy-conditions.html",
+      "byline": "By VICTOR MATHER",
+      "item_type": "Article",
+      "updated_date": "2015-08-07T05:00:16-5:00",
+      "created_date": "2015-08-07T05:00:19-5:00",
+      "published_date": "2015-08-08T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Hockey, Ice",
+        "Stadiums and Arenas"
+      ],
+      "org_facet": [
+        "New York Islanders",
+        "Barclays Center (Brooklyn, NY)"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/08/sports/08zamboni/08zamboni-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The key for the ice resurfacer used at Islanders games. The job of driving the machine is more complex than it sounds.",
+          "copyright": "Bruce Bennett/Getty Images"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/08/sports/08zamboni/08zamboni-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The key for the ice resurfacer used at Islanders games. The job of driving the machine is more complex than it sounds.",
+          "copyright": "Bruce Bennett/Getty Images"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/08/sports/08zamboni/08zamboni-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 118,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The key for the ice resurfacer used at Islanders games. The job of driving the machine is more complex than it sounds.",
+          "copyright": "Bruce Bennett/Getty Images"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/08/sports/08zamboni/08zamboni-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The key for the ice resurfacer used at Islanders games. The job of driving the machine is more complex than it sounds.",
+          "copyright": "Bruce Bennett/Getty Images"
+        }
+      ]
+    },
+    {
+      "section": "Sports",
+      "subsection": "",
+      "title": "A Real Adventure: Sorting Out All the F.K.T.s (Fastest Known Times)",
+      "abstract": "Peter Bakwin’s website is the closest thing that trail running and speed hiking have to a record book, making him the endurance genre’s de facto commissioner.",
+      "url": "http://www.nytimes.com/2015/08/06/sports/a-real-adventure-sorting-out-all-the-fkts-fastest-known-times.html",
+      "byline": "By JOHN BRANCH",
+      "item_type": "Article",
+      "updated_date": "2015-08-05T12:09:58-5:00",
+      "created_date": "2015-08-05T12:10:01-5:00",
+      "published_date": "2015-08-06T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Hikes and Hiking",
+        "Records and Achievements",
+        "Ultramarathon Running"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "Bakwin, Peter (1962- )",
+        "Jurek, Scott",
+        "Jornet Burgada, Kilian",
+        "Hamilton, Andrew Jr",
+        "Davis, Jennifer Pharr"
+      ],
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/06/sports/06FKTweb3/06FKTweb3-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Scott Jurek on McAfee Knob on the Appalachian Trail in Virginia during his record-setting run this summer.",
+          "copyright": "John Roark/The Roanoke Times, via Associated Press"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/06/sports/06FKTweb3/06FKTweb3-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Scott Jurek on McAfee Knob on the Appalachian Trail in Virginia during his record-setting run this summer.",
+          "copyright": "John Roark/The Roanoke Times, via Associated Press"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/06/sports/06FKTweb3/06FKTweb3-articleInline.jpg",
+          "format": "Normal",
+          "height": 121,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Scott Jurek on McAfee Knob on the Appalachian Trail in Virginia during his record-setting run this summer.",
+          "copyright": "John Roark/The Roanoke Times, via Associated Press"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/06/sports/06FKTweb3/06FKTweb3-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Scott Jurek on McAfee Knob on the Appalachian Trail in Virginia during his record-setting run this summer.",
+          "copyright": "John Roark/The Roanoke Times, via Associated Press"
+        }
+      ]
+    },
+    {
+      "section": "Sports",
+      "subsection": "Tennis",
+      "title": "Sam Querrey Earns 1st-Round Win in Montreal",
+      "abstract": "Sam Querrey got past Martin Klizan in straight sets 6-3, 6-3 in the first round of the Rogers Cup men's tournament on Monday.",
+      "url": "http://www.nytimes.com/aponline/2015/08/10/sports/tennis/ap-ten-rogers-cup.html",
+      "byline": "By THE ASSOCIATED PRESS",
+      "item_type": "Article",
+      "updated_date": "2015-08-10T22:28:41-5:00",
+      "created_date": "2015-08-10T22:07:57-5:00",
+      "published_date": "2015-08-11T02:05:44-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": "",
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": ""
+    },
+    {
+      "section": "Sports",
+      "subsection": "Olympics",
+      "title": "Los Angeles Proposes $4.1B Budget if Olympic Candidate",
+      "abstract": "If the city of Los Angeles becomes the U.S. candidate for the 2024 Olympics after Boston's recent drop from contention, the organizers' proposed budget for the Summer Games would be $4.1 billion plus a $400 million contingency, a senior adviser to Mayor Eric Garcetti said Monday.",
+      "url": "http://www.nytimes.com/aponline/2015/08/10/sports/olympics/ap-oly-los-angeles-2024.html",
+      "byline": "By THE ASSOCIATED PRESS",
+      "item_type": "Article",
+      "updated_date": "2015-08-10T22:28:39-5:00",
+      "created_date": "2015-08-10T22:02:19-5:00",
+      "published_date": "2015-08-11T02:00:58-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": "",
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": ""
+    }
+  ]
+}

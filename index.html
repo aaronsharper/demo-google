@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en" ng-app="demo">
+	<!-- DATA FROM NY TIMES API -->
+	<head>
+		<meta charset="utf-8">
+		<title>Google Demo</title>
+
+		<!-- CSS -->
+		<link rel="stylesheet" type="text/css" href="styles/style.css" />
+		<!-- Icons from Icomoon -->
+		<link rel="stylesheet" type="text/css" href="styles/font.css" />
+	</head>
+
+	<body ng-controller="HomeController as home">
+		<div ng-view=""></di>
+	</body>
+
+	<!-- Vendors -->
+	<script type="text/javascript" src="js/nonangular/jquery-1.11.2.min.js"></script>
+
+	<!-- Non-angular libraries -->
+	<script type="text/javascript" src="js/nonangular/lodash.min.js"></script>
+	<script type="text/javascript" src="js/nonangular/moment.min.js"></script>
+
+	<script type="text/javascript" src="js/angular/angular.min.js"></script>
+	<script type="text/javascript" src="js/angular/angular-route.min.js"></script>
+	<script type="text/javascript" src="js/angular/angular-sanitize.min.js"></script>
+	<script type="text/javascript" src="js/angular/angular-filter.min.js"></script>
+
+	<!-- Angular components -->
+	<script type="text/javascript" src="app/app.js"></script>
+	<script type="text/javascript" src="app/config.js"></script>
+	<script type="text/javascript" src="app/controller.js"></script>
+
+	<!-- Application sections -->
+	<script type="text/javascript" src="components/services/NewsService.js"></script>
+	<!--script type="text/javascript" src="app/controller.js"></script-->
+</html>

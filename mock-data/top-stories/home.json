@@ -1,0 +1,1383 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2015 The New York Times Company. All Rights Reserved.",
+  "section": "home",
+  "last_updated": "2015-08-10T23:35:02-05:00",
+  "num_results": 21,
+  "results": [
+    {
+      "section": "U.S.",
+      "subsection": "",
+      "title": "After Ferguson Shooting, State of Emergency Is Declared",
+      "abstract": "St. Louis County declared a state of emergency Monday, as charges were filed against an 18-year-old who was shot by the police during protests on the anniversary of the killing of Michael Brown.",
+      "url": "http://www.nytimes.com/2015/08/11/us/shooting-ferguson-michael-brown.html",
+      "byline": "By JOHN ELIGON and MITCH SMITH",
+      "item_type": "Article",
+      "updated_date": "2015-08-10T21:05:22-5:00",
+      "created_date": "2015-08-10T04:03:38-5:00",
+      "published_date": "2015-08-11T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Demonstrations, Protests and Riots",
+        "Police Brutality, Misconduct and Shootings"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "Brown, Michael (1996-2014)",
+        "Wilson, Darren (1986- )"
+      ],
+      "geo_facet": [
+        "Ferguson (Mo)"
+      ],
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/us/11FERGUSON/11FERGUSON-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Protesters marched in St. Louis on Monday after a weekend of commemorations of the killing a year ago of Michael Brown.",
+          "copyright": "Jeff Roberson/Associated Press"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/us/11FERGUSON/11FERGUSON-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Protesters marched in St. Louis on Monday after a weekend of commemorations of the killing a year ago of Michael Brown.",
+          "copyright": "Jeff Roberson/Associated Press"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/us/11FERGUSON/11FERGUSON-articleInline.jpg",
+          "format": "Normal",
+          "height": 117,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Protesters marched in St. Louis on Monday after a weekend of commemorations of the killing a year ago of Michael Brown.",
+          "copyright": "Jeff Roberson/Associated Press"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/us/11FERGUSON/11FERGUSON-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Protesters marched in St. Louis on Monday after a weekend of commemorations of the killing a year ago of Michael Brown.",
+          "copyright": "Jeff Roberson/Associated Press"
+        }
+      ]
+    },
+    {
+      "section": "U.S.",
+      "subsection": "",
+      "title": "Black Activists Arrested",
+      "abstract": "Two high-profile activists were among 56 people arrested during a civil disobedience protest.",
+      "url": "http://www.nytimes.com/2015/08/11/us/blacktwitter-leaders-arrested-in-ferguson-protests.html",
+      "byline": "By DANIEL VICTOR",
+      "item_type": "Article",
+      "updated_date": "2015-08-10T18:30:47-5:00",
+      "created_date": "2015-08-10T18:30:49-5:00",
+      "published_date": "2015-08-11T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Computers and the Internet",
+        "Police Brutality, Misconduct and Shootings",
+        "Demonstrations, Protests and Riots"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "Mckesson, Deray (1985- )",
+        "Elzie, Johnetta"
+      ],
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/10/multimedia/11arrestweb/11arrestweb-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The scholar and author Cornel West was arrested on Monday by the St. Louis Police during a protest outside the Thomas F. Eagleton Federal Courthouse.",
+          "copyright": "Jeff Roberson/Associated Press"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/10/multimedia/11arrestweb/11arrestweb-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The scholar and author Cornel West was arrested on Monday by the St. Louis Police during a protest outside the Thomas F. Eagleton Federal Courthouse.",
+          "copyright": "Jeff Roberson/Associated Press"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/10/multimedia/11arrestweb/ferguson-arrests-articleInline.jpg",
+          "format": "Normal",
+          "height": 137,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The scholar and author Cornel West was arrested on Monday by the St. Louis Police during a protest outside the Thomas F. Eagleton Federal Courthouse.",
+          "copyright": "Jeff Roberson/Associated Press"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/10/multimedia/11arrestweb/11arrestweb-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The scholar and author Cornel West was arrested on Monday by the St. Louis Police during a protest outside the Thomas F. Eagleton Federal Courthouse.",
+          "copyright": "Jeff Roberson/Associated Press"
+        }
+      ]
+    },
+    {
+      "section": "U.S.",
+      "subsection": "",
+      "title": "Police Group’s ‘Darren Wilson Day’ Is Condemned",
+      "abstract": "On the anniversary of Michael Brown’s death, a police officers’ association in Columbia, Mo., called Mr. Wilson “innocent, but persecuted.”",
+      "url": "http://www.nytimes.com/2015/08/11/us/darren-wilson-day-columbia-missouri-ferguson-michael-brown.html",
+      "byline": "By DANIEL VICTOR",
+      "item_type": "Article",
+      "updated_date": "2015-08-10T19:26:57-5:00",
+      "created_date": "2015-08-10T19:26:59-5:00",
+      "published_date": "2015-08-11T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Police Brutality, Misconduct and Shootings"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "Brown, Michael (1996-2014)",
+        "Wilson, Darren (1986- )"
+      ],
+      "geo_facet": [
+        "Columbia (Mo)",
+        "Ferguson (Mo)"
+      ],
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/us/11wilson_web1/11wilson_web1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Darren Wilson, seen shortly after the shooting of Michael Brown in 2014.",
+          "copyright": "Reuters"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/us/11wilson_web1/11wilson_web1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Darren Wilson, seen shortly after the shooting of Michael Brown in 2014.",
+          "copyright": "Reuters"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/us/11wilson_web1/11wilson_web1-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 165,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Darren Wilson, seen shortly after the shooting of Michael Brown in 2014.",
+          "copyright": "Reuters"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/us/11wilson_web1/11wilson_web1-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Darren Wilson, seen shortly after the shooting of Michael Brown in 2014.",
+          "copyright": "Reuters"
+        }
+      ]
+    },
+    {
+      "section": "Magazine",
+      "subsection": "",
+      "title": "From the Magazine: ‘Our Demand Is Simple: Stop Killing Us’ (May 4, 2015)",
+      "abstract": "How a group of black social media activists built the nation’s first 21st-century civil rights movement.",
+      "url": "http://www.nytimes.com/2015/05/10/magazine/our-demand-is-simple-stop-killing-us.html",
+      "byline": "By JAY CASPIAN KANG",
+      "item_type": "Article",
+      "updated_date": "2015-05-04T05:00:29-5:00",
+      "created_date": "2015-05-04T05:00:34-5:00",
+      "published_date": "2015-05-10T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Blacks",
+        "Police Brutality, Misconduct and Shootings",
+        "Demonstrations, Protests and Riots",
+        "Social Media",
+        "Race and Ethnicity"
+      ],
+      "org_facet": [
+        "Twitter"
+      ],
+      "per_facet": [
+        "Mckesson, Deray (1985- )",
+        "Elzie, Johnetta",
+        "Gray, Freddie (1989-2015)",
+        "Brown, Michael (1996-2014)",
+        "Garner, Eric"
+      ],
+      "geo_facet": [
+        "Ferguson (Mo)"
+      ],
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/05/10/magazine/10mag1/10mag1-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Johnetta Elzie (left) and DeRay Mckesson at MoKaBe’s Coffeehouse in St. Louis.",
+          "copyright": "Christaan Felber for The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/05/10/magazine/10mag1/10mag1-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Johnetta Elzie (left) and DeRay Mckesson at MoKaBe’s Coffeehouse in St. Louis.",
+          "copyright": "Christaan Felber for The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/05/10/magazine/10mag1/10mag1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Johnetta Elzie (left) and DeRay Mckesson at MoKaBe’s Coffeehouse in St. Louis.",
+          "copyright": "Christaan Felber for The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/05/10/magazine/10mag1/10mag1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Johnetta Elzie (left) and DeRay Mckesson at MoKaBe’s Coffeehouse in St. Louis.",
+          "copyright": "Christaan Felber for The New York Times"
+        }
+      ]
+    },
+    {
+      "section": "U.S.",
+      "subsection": "",
+      "title": "50 Years After Riots, Watts Is in Recovery",
+      "abstract": "A symbol of racial tensions after riots broke out in 1965, Watts, a neighborhood in Los Angeles, has made strides in relations between the police and the community. But it is no utopia.",
+      "url": "http://www.nytimes.com/2015/08/11/us/50-years-after-watts-riots-a-recovery-is-in-progress.html",
+      "byline": "By JENNIFER MEDINA",
+      "item_type": "Article",
+      "updated_date": "2015-08-10T14:55:43-5:00",
+      "created_date": "2015-08-10T14:55:45-5:00",
+      "published_date": "2015-08-11T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Race and Ethnicity",
+        "Demonstrations, Protests and Riots",
+        "Police Brutality, Misconduct and Shootings"
+      ],
+      "org_facet": [
+        "Police Department (Los Angeles, Calif)"
+      ],
+      "per_facet": [
+        "Ford, Ezell Earl (1988-2014)"
+      ],
+      "geo_facet": [
+        "Watts (Los Angeles)",
+        "Los Angeles (Calif)"
+      ],
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/us/11WATTSWEB2/11WATTSWEB2-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Watts Towers. It has been 50 years since riots broke out on the streets in Watts for six days starting on Aug. 11, 1965.",
+          "copyright": "Monica Almeida/The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/us/11WATTSWEB2/11WATTSWEB2-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Watts Towers. It has been 50 years since riots broke out on the streets in Watts for six days starting on Aug. 11, 1965.",
+          "copyright": "Monica Almeida/The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/us/11WATTSWEB2/11WATTSWEB2-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Watts Towers. It has been 50 years since riots broke out on the streets in Watts for six days starting on Aug. 11, 1965.",
+          "copyright": "Monica Almeida/The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/us/11WATTSWEB2/11WATTSWEB2-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Watts Towers. It has been 50 years since riots broke out on the streets in Watts for six days starting on Aug. 11, 1965.",
+          "copyright": "Monica Almeida/The New York Times"
+        }
+      ]
+    },
+    {
+      "section": "U.S.",
+      "subsection": "Politics",
+      "title": "Fox News Journalist Says She Won’t Be Cowed by Trump",
+      "abstract": "“This is a tough business,” Megyn Kelly, who moderated the first G.O.P. presidential debate last week, told viewers Monday. She brushed off Donald Trump’s comments, saying, “I’ll continue doing my job without fear or favor.”",
+      "url": "http://www.nytimes.com/2015/08/11/us/megyn-kelly-says-she-wont-be-cowed-by-donald-trump.html",
+      "byline": "By JEREMY W. PETERS and DANIEL VICTOR",
+      "item_type": "Article",
+      "updated_date": "2015-08-10T22:48:16-5:00",
+      "created_date": "2015-08-10T22:09:42-5:00",
+      "published_date": "2015-08-11T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2016",
+        "Debates (Political)",
+        "News and News Media"
+      ],
+      "org_facet": [
+        "Fox News Channel",
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Kelly, Megyn",
+        "Trump, Donald J"
+      ],
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/us/11KELLY/11KELLY-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left: Chris Wallace, Megyn Kelly and Bret Baier moderated the first Republican presidential debate Thursday on Fox News.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/us/11KELLY/11KELLY-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left: Chris Wallace, Megyn Kelly and Bret Baier moderated the first Republican presidential debate Thursday on Fox News.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/us/11KELLY/11KELLY-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left: Chris Wallace, Megyn Kelly and Bret Baier moderated the first Republican presidential debate Thursday on Fox News.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/us/11KELLY/11KELLY-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left: Chris Wallace, Megyn Kelly and Bret Baier moderated the first Republican presidential debate Thursday on Fox News.",
+          "copyright": "Doug Mills/The New York Times"
+        }
+      ]
+    },
+    {
+      "section": "U.S.",
+      "subsection": "Politics",
+      "title": "Trump Is ‘Emperor With No Clothes,’ Rand Paul Says",
+      "abstract": "Lagging in the polls, Senator Rand Paul laid into Donald J. Trump, calling him “a bully” and an “empty suit,” and adding, “Somebody has to challenge him.”",
+      "url": "http://www.nytimes.com/politics/first-draft/2015/08/10/rand-paul-compares-donald-trump-to-the-emperor-with-no-clothes/",
+      "byline": "By ALAN RAPPEPORT",
+      "item_type": "Blogpost",
+      "updated_date": "2015-08-10T22:04:01-5:00",
+      "created_date": "2015-08-10T18:37:40-5:00",
+      "published_date": "2015-08-10T22:36:16-5:00",
+      "material_type_facet": "News",
+      "kicker": "First Draft",
+      "des_facet": "",
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/us/10firstdraft-paul/10firstdraft-paul-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Rand Paul at the American Legion Post 23 in Bowling Green, Ky., on Monday.",
+          "copyright": "Timothy D. Easley/Associated Press"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/us/10firstdraft-paul/10firstdraft-paul-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Rand Paul at the American Legion Post 23 in Bowling Green, Ky., on Monday.",
+          "copyright": "Timothy D. Easley/Associated Press"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/us/10firstdraft-paul/10firstdraft-paul-articleInline.jpg",
+          "format": "Normal",
+          "height": 131,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Rand Paul at the American Legion Post 23 in Bowling Green, Ky., on Monday.",
+          "copyright": "Timothy D. Easley/Associated Press"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/us/10firstdraft-paul/10firstdraft-paul-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Rand Paul at the American Legion Post 23 in Bowling Green, Ky., on Monday.",
+          "copyright": "Timothy D. Easley/Associated Press"
+        }
+      ]
+    },
+    {
+      "section": "U.S.",
+      "subsection": "",
+      "title": "Anger Rises Over Estimate of Colorado Toxic Water Spill",
+      "abstract": "The Environmental Protection Agency, typically charged with responding to toxic disasters, has claimed responsibility for unleashing a chemical brew into the Animas River.",
+      "url": "http://www.nytimes.com/2015/08/11/us/durango-colorado-mine-spill-environmental-protection-agency.html",
+      "byline": "By JULIE TURKEWITZ",
+      "item_type": "Article",
+      "updated_date": "2015-08-10T20:38:49-5:00",
+      "created_date": "2015-08-10T08:04:57-5:00",
+      "published_date": "2015-08-11T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Rivers",
+        "Hazardous and Toxic Substances",
+        "Water Pollution",
+        "Accidents and Safety"
+      ],
+      "org_facet": [
+        "Environmental Protection Agency"
+      ],
+      "per_facet": "",
+      "geo_facet": [
+        "Durango (Colo)",
+        "Colorado"
+      ],
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/us/11DURANGO1/11DURANGO1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People kayaking in the Animas River near Durango, Colo., last Thursday, in water colored from a mine waste spill. The river is now closed indefinitely, with visitors warned to stay out.",
+          "copyright": "Jerry Mcbride/The Durango Herald, via Associated Press"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/us/11DURANGO1/11DURANGO1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People kayaking in the Animas River near Durango, Colo., last Thursday, in water colored from a mine waste spill. The river is now closed indefinitely, with visitors warned to stay out.",
+          "copyright": "Jerry Mcbride/The Durango Herald, via Associated Press"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/us/11DURANGO1/11DURANGO1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People kayaking in the Animas River near Durango, Colo., last Thursday, in water colored from a mine waste spill. The river is now closed indefinitely, with visitors warned to stay out.",
+          "copyright": "Jerry Mcbride/The Durango Herald, via Associated Press"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/us/11DURANGO1/11DURANGO1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People kayaking in the Animas River near Durango, Colo., last Thursday, in water colored from a mine waste spill. The river is now closed indefinitely, with visitors warned to stay out.",
+          "copyright": "Jerry Mcbride/The Durango Herald, via Associated Press"
+        }
+      ]
+    },
+    {
+      "section": "Technology",
+      "subsection": "",
+      "title": "Giving Google Room to Dream Big",
+      "abstract": "From Google’s start, Larry Page has been afflicted with a desire for two competing corporate virtues: focus and expansiveness.",
+      "url": "http://www.nytimes.com/2015/08/11/technology/giving-google-room-to-dream-big-beyond-search.html",
+      "byline": "By FARHAD MANJOO",
+      "item_type": "Article",
+      "updated_date": "2015-08-10T21:11:38-5:00",
+      "created_date": "2015-08-10T21:11:40-5:00",
+      "published_date": "2015-08-11T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Computers and the Internet",
+        "Data Storage",
+        "Search Engines"
+      ],
+      "org_facet": [
+        "Google Inc",
+        "Alphabet"
+      ],
+      "per_facet": [
+        "Page, Larry",
+        "Brin, Sergey"
+      ],
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/business/11state3/11state3-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A data center in Council Bluffs, Iowa. Routers and switches allow Google's data centers to talk to each other.",
+          "copyright": "Connie Zhou/Google, via Associated Press"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/business/11state3/11state3-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A data center in Council Bluffs, Iowa. Routers and switches allow Google's data centers to talk to each other.",
+          "copyright": "Connie Zhou/Google, via Associated Press"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/business/11state3/11state3-articleInline.jpg",
+          "format": "Normal",
+          "height": 111,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A data center in Council Bluffs, Iowa. Routers and switches allow Google's data centers to talk to each other.",
+          "copyright": "Connie Zhou/Google, via Associated Press"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/business/11state3/11state3-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A data center in Council Bluffs, Iowa. Routers and switches allow Google's data centers to talk to each other.",
+          "copyright": "Connie Zhou/Google, via Associated Press"
+        }
+      ]
+    },
+    {
+      "section": "Technology",
+      "subsection": "",
+      "title": "Google Reorganizes in Bid to Keep Its Lead as Innovator",
+      "abstract": "Google’s co-founder Larry Page announced that he was creating a new firm called Alphabet, which would be a parent holding company to Google and other entities.",
+      "url": "http://www.nytimes.com/2015/08/11/technology/google-alphabet-restructuring.html",
+      "byline": "By CONOR DOUGHERTY",
+      "item_type": "Article",
+      "updated_date": "2015-08-10T21:25:55-5:00",
+      "created_date": "2015-08-10T17:14:53-5:00",
+      "published_date": "2015-08-11T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": "",
+      "org_facet": [
+        "Google Inc",
+        "Alphabet"
+      ],
+      "per_facet": [
+        "Page, Larry",
+        "Brin, Sergey",
+        "Pichai, Sundar"
+      ],
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/business/11google-web3/11google-web3-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Larry Page, co-founder and chief executive of Google.",
+          "copyright": "Jeff Chiu/Associated Press"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/business/11google-web3/11google-web3-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Larry Page, co-founder and chief executive of Google.",
+          "copyright": "Jeff Chiu/Associated Press"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/business/11google-web3/11google-web3-articleInline.jpg",
+          "format": "Normal",
+          "height": 125,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Larry Page, co-founder and chief executive of Google.",
+          "copyright": "Jeff Chiu/Associated Press"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/business/11google-web3/11google-web3-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Larry Page, co-founder and chief executive of Google.",
+          "copyright": "Jeff Chiu/Associated Press"
+        }
+      ]
+    },
+    {
+      "section": "Technology",
+      "subsection": "",
+      "title": "Sundar Pichai Will Lead Google With Users in Mind",
+      "abstract": "The newly appointed chief executive owes his new job to his success in making Google products easier to use and thus more popular.",
+      "url": "http://www.nytimes.com/2015/08/11/business/sundar-pichai-will-lead-google-with-users-in-mind.html",
+      "byline": "By DAVID STREITFELD and MIKE ISAAC",
+      "item_type": "Article",
+      "updated_date": "2015-08-10T21:36:50-5:00",
+      "created_date": "2015-08-10T21:36:52-5:00",
+      "published_date": "2015-08-11T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Appointments and Executive Changes"
+      ],
+      "org_facet": [
+        "Google Inc"
+      ],
+      "per_facet": [
+        "Sundar Pichai"
+      ],
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/business/11pichaisub/11pichaisub-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sundar Pichai, the new chief executive of Google.",
+          "copyright": "David Paul Morris/Bloomberg, via Getty Images"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/business/11pichaisub/11pichaisub-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sundar Pichai, the new chief executive of Google.",
+          "copyright": "David Paul Morris/Bloomberg, via Getty Images"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/business/11pichaisub/11pichaisub-articleInline.jpg",
+          "format": "Normal",
+          "height": 122,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sundar Pichai, the new chief executive of Google.",
+          "copyright": "David Paul Morris/Bloomberg, via Getty Images"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/business/11pichaisub/11pichaisub-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sundar Pichai, the new chief executive of Google.",
+          "copyright": "David Paul Morris/Bloomberg, via Getty Images"
+        }
+      ]
+    },
+    {
+      "section": "NYT Now",
+      "subsection": "",
+      "title": "Your Evening Briefing",
+      "abstract": "Our nightly rundown will get you caught up on the day’s big stories.",
+      "url": "http://www.nytimes.com/2015/08/10/nytnow/your-monday-evening-briefing.html",
+      "byline": "By ANDREA KANNAPELL and SANDRA STEVENSON",
+      "item_type": "Article",
+      "updated_date": "2015-08-10T18:12:18-5:00",
+      "created_date": "2015-08-10T18:12:24-5:00",
+      "published_date": "2015-08-10T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": "",
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/10/nytnow/10eveningss-slide-8OB6/10eveningss-slide-8OB6-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Troy Wayrynen/Associated Press"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/10/nytnow/10eveningss-slide-8OB6/10eveningss-slide-8OB6-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Troy Wayrynen/Associated Press"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/10/nytnow/10eveningss-slide-8OB6/10eveningss-slide-8OB6-articleInline.jpg",
+          "format": "Normal",
+          "height": 126,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Troy Wayrynen/Associated Press"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/10/nytnow/10eveningss-slide-8OB6/10eveningss-slide-8OB6-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Troy Wayrynen/Associated Press"
+        }
+      ]
+    },
+    {
+      "section": "World",
+      "subsection": "Asia Pacific",
+      "title": "Story of Torture, Told in Drawings, Grips China",
+      "abstract": "A man wrongly convicted in a shooting death hired an artist to depict scenes of the police tactics he said were used to force him to confess to a crime he did not commit.",
+      "url": "http://www.nytimes.com/2015/08/11/world/asia/drawings-of-police-torturing-a-suspect-captivate-china.html",
+      "byline": "By VANESSA PIAO and AUSTIN RAMZY",
+      "item_type": "Article",
+      "updated_date": "2015-08-10T15:31:32-5:00",
+      "created_date": "2015-08-10T15:31:34-5:00",
+      "published_date": "2015-08-11T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "False Arrests, Convictions and Imprisonments",
+        "Murders, Attempted Murders and Homicides",
+        "Police",
+        "Torture",
+        "News and News Media"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": [
+        "Shanghai (China)"
+      ],
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/world/11torture_hp/11torture_hp-thumbStandard-v3.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Left, “forcing coffee down the nose and mouth.” Right, “hung up for a day and a night and given electric shocks.\"",
+          "copyright": "Courtesy of Liu Renwang"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/world/11torture_hp/11torture_hp-thumbLarge-v3.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Left, “forcing coffee down the nose and mouth.” Right, “hung up for a day and a night and given electric shocks.\"",
+          "copyright": "Courtesy of Liu Renwang"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/world/11torture_hp/11torture_hp-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Left, “forcing coffee down the nose and mouth.” Right, “hung up for a day and a night and given electric shocks.\"",
+          "copyright": "Courtesy of Liu Renwang"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/world/11torture_hp/11torture_hp-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Left, “forcing coffee down the nose and mouth.” Right, “hung up for a day and a night and given electric shocks.\"",
+          "copyright": "Courtesy of Liu Renwang"
+        }
+      ]
+    },
+    {
+      "section": "N.Y. / Region",
+      "subsection": "",
+      "title": "A Test That’s Tricky for Students, and Some Adults",
+      "abstract": "New York’s exams are some of the toughest in the land. But questions from an African fable in a third-grade test stumped many.",
+      "url": "http://www.nytimes.com/2015/08/11/nyregion/new-york-state-test-questions-tricky-for-3rd-graders-and-maybe-some-adults.html",
+      "byline": "By KATE TAYLOR and ELIZABETH A. HARRIS",
+      "item_type": "Article",
+      "updated_date": "2015-08-10T20:37:47-5:00",
+      "created_date": "2015-08-10T20:37:49-5:00",
+      "published_date": "2015-08-11T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Tests and Examinations",
+        "Reading and Writing Skills (Education)",
+        "Education (K-12)"
+      ],
+      "org_facet": [
+        "Education Department (NYS)"
+      ],
+      "per_facet": "",
+      "geo_facet": [
+        "New York State"
+      ],
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/nyregion/NYTESTweb/NYTESTweb-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Grade-school students in New York City, like those arriving at Public School 261 in Boerum Hill, Brooklyn, in June, had to take New York State reading and math tests in the last school year.",
+          "copyright": "Sam Hodgson for The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/nyregion/NYTESTweb/NYTESTweb-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Grade-school students in New York City, like those arriving at Public School 261 in Boerum Hill, Brooklyn, in June, had to take New York State reading and math tests in the last school year.",
+          "copyright": "Sam Hodgson for The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/nyregion/NYTESTweb/NYTESTweb-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Grade-school students in New York City, like those arriving at Public School 261 in Boerum Hill, Brooklyn, in June, had to take New York State reading and math tests in the last school year.",
+          "copyright": "Sam Hodgson for The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/nyregion/NYTESTweb/NYTESTweb-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Grade-school students in New York City, like those arriving at Public School 261 in Boerum Hill, Brooklyn, in June, had to take New York State reading and math tests in the last school year.",
+          "copyright": "Sam Hodgson for The New York Times"
+        }
+      ]
+    },
+    {
+      "section": "World",
+      "subsection": "Asia Pacific",
+      "title": "Japan Restarts Reactor Following Fukushima Disaster",
+      "abstract": "A power plant operator in southern Japan restarted a nuclear reactor on Tuesday, the first to begin operating under new safety requirements following the Fukushima disaster.",
+      "url": "http://www.nytimes.com/aponline/2015/08/10/world/asia/ap-as-japan-nuclear.html",
+      "byline": "By THE ASSOCIATED PRESS",
+      "item_type": "Article",
+      "updated_date": "2015-08-10T22:34:42-5:00",
+      "created_date": "2015-08-10T00:10:41-5:00",
+      "published_date": "2015-08-10T04:07:51-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": "",
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": ""
+    },
+    {
+      "section": "World",
+      "subsection": "Europe",
+      "title": "For Many in Spain, Economic Recovery Feels Like a Bust",
+      "abstract": "The majority of the country’s new jobs are part-time and offer low wages, experts say, and some employees are expected to do unpaid work.",
+      "url": "http://www.nytimes.com/2015/08/11/world/europe/for-many-in-spain-a-heralded-economic-recovery-feels-like-a-bust.html",
+      "byline": "By SUZANNE DALEY",
+      "item_type": "Article",
+      "updated_date": "2015-08-10T16:25:05-5:00",
+      "created_date": "2015-08-10T15:56:52-5:00",
+      "published_date": "2015-08-11T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "European Sovereign Debt Crisis (2010- )",
+        "Unemployment",
+        "Economic Conditions and Trends",
+        "Part-Time Employment",
+        "Labor and Jobs"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": [
+        "Spain",
+        "Madrid (Spain)"
+      ],
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/world/11SPAIN/11SPAIN-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Angel Puyalón, 50, with his wife, at home in Zaragoza, Spain. He lost his job as an interior designer and has been unable to find work, so they rely on a food bank to eat and fear being evicted.",
+          "copyright": "Samuel Aranda for The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/world/11SPAIN/11SPAIN-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Angel Puyalón, 50, with his wife, at home in Zaragoza, Spain. He lost his job as an interior designer and has been unable to find work, so they rely on a food bank to eat and fear being evicted.",
+          "copyright": "Samuel Aranda for The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/world/11SPAIN/11SPAIN-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Angel Puyalón, 50, with his wife, at home in Zaragoza, Spain. He lost his job as an interior designer and has been unable to find work, so they rely on a food bank to eat and fear being evicted.",
+          "copyright": "Samuel Aranda for The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/world/11SPAIN/11SPAIN-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Angel Puyalón, 50, with his wife, at home in Zaragoza, Spain. He lost his job as an interior designer and has been unable to find work, so they rely on a food bank to eat and fear being evicted.",
+          "copyright": "Samuel Aranda for The New York Times"
+        }
+      ]
+    },
+    {
+      "section": "N.Y. / Region",
+      "subsection": "",
+      "title": "Confederate Flag Debate Reaches New York Fairs",
+      "abstract": "Questions or complaints about rebel flag imagery have popped up in relation to at least five county fairs, with varied responses.",
+      "url": "http://www.nytimes.com/2015/08/11/nyregion/confederate-flag-debate-reaches-new-york-county-fairs.html",
+      "byline": "By ANDY NEWMAN",
+      "item_type": "Article",
+      "updated_date": "2015-08-10T11:33:17-5:00",
+      "created_date": "2015-08-10T11:33:19-5:00",
+      "published_date": "2015-08-11T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Flags, Emblems and Insignia",
+        "State and County Fairs",
+        "Race and Ethnicity"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": [
+        "New York State",
+        "Ulster County (NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/nyregion/FAIRSweb1/FAIRSweb1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Merchandise featuring the Confederate battle flag, for sale this month at the Ulster County Fair in New Paltz.",
+          "copyright": "Karsten Moran for The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/nyregion/FAIRSweb1/FAIRSweb1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Merchandise featuring the Confederate battle flag, for sale this month at the Ulster County Fair in New Paltz.",
+          "copyright": "Karsten Moran for The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/nyregion/FAIRSweb1/FAIRSweb1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Merchandise featuring the Confederate battle flag, for sale this month at the Ulster County Fair in New Paltz.",
+          "copyright": "Karsten Moran for The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/nyregion/FAIRSweb1/FAIRSweb1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Merchandise featuring the Confederate battle flag, for sale this month at the Ulster County Fair in New Paltz.",
+          "copyright": "Karsten Moran for The New York Times"
+        }
+      ]
+    },
+    {
+      "section": "N.Y. / Region",
+      "subsection": "",
+      "title": "A Bronx Hotel Is Now a ‘Hot Spot’ for Legionnaires’",
+      "abstract": "A boutique hotel with terrazzo floors, custom furnishings and concierge service is now at the center of the worst outbreak of Legionnaires’ disease in the city’s history.",
+      "url": "http://www.nytimes.com/2015/08/11/nyregion/death-toll-from-legionnaires-disease-outbreak-in-bronx-rises-to-12.html",
+      "byline": "By WINNIE HU and NOAH REMNICK",
+      "item_type": "Article",
+      "updated_date": "2015-08-10T20:47:31-5:00",
+      "created_date": "2015-08-10T15:45:04-5:00",
+      "published_date": "2015-08-11T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Legionnaires' Disease",
+        "Deaths (Fatalities)"
+      ],
+      "org_facet": [
+        "Opera House Hotel (Bronx, NY, Hotel)"
+      ],
+      "per_facet": "",
+      "geo_facet": [
+        "South Bronx (Bronx, NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/nyregion/LEGION/LEGION-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Opera House Hotel is at the center of the outbreak.",
+          "copyright": "Edwin J. Torres for The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/nyregion/LEGION/LEGION-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Opera House Hotel is at the center of the outbreak.",
+          "copyright": "Edwin J. Torres for The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/nyregion/LEGION/LEGION-articleInline.jpg",
+          "format": "Normal",
+          "height": 139,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Opera House Hotel is at the center of the outbreak.",
+          "copyright": "Edwin J. Torres for The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/nyregion/LEGION/LEGION-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Opera House Hotel is at the center of the outbreak.",
+          "copyright": "Edwin J. Torres for The New York Times"
+        }
+      ]
+    },
+    {
+      "section": "Fashion & Style",
+      "subsection": "",
+      "title": "Officials End Search for Boyfriend of Tali Lennox",
+      "abstract": "A passing boat rescued Ms. Lennox, the daughter of the singer Annie Lennox, after the kayak she and Ian Jones were in capsized Saturday morning near Staatsburg, N.Y.",
+      "url": "http://www.nytimes.com/2015/08/10/fashion/tali-lennox-boyfriend-ian-jones-daughter-annie-lennox-hudson-river-accident.html",
+      "byline": "By MATTHEW SCHNEIER",
+      "item_type": "Article",
+      "updated_date": "2015-08-10T14:19:25-5:00",
+      "created_date": "2015-08-10T14:19:28-5:00",
+      "published_date": "2015-08-10T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Boats and Boating",
+        "Models (Professional)",
+        "Fashion and Apparel"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "Lennox, Annie"
+      ],
+      "geo_facet": [
+        "Hudson River",
+        "Dutchess County (NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/fashion/10LENNOXWEB/10LENNOXWEB-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tali Lennox and Ian Jones in April.",
+          "copyright": "Dimitrios Kambouris/Getty Images for Audi"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/fashion/10LENNOXWEB/10LENNOXWEB-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tali Lennox and Ian Jones in April.",
+          "copyright": "Dimitrios Kambouris/Getty Images for Audi"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/fashion/10LENNOXWEB/10LENNOXWEB-articleInline.jpg",
+          "format": "Normal",
+          "height": 139,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tali Lennox and Ian Jones in April.",
+          "copyright": "Dimitrios Kambouris/Getty Images for Audi"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/fashion/10LENNOXWEB/10LENNOXWEB-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tali Lennox and Ian Jones in April.",
+          "copyright": "Dimitrios Kambouris/Getty Images for Audi"
+        }
+      ]
+    },
+    {
+      "section": "Sports",
+      "subsection": "Golf",
+      "title": "At P.G.A., Golfers Will Have to Go Against Grains",
+      "abstract": "Officials have said that, as in 2010, the roughly 1,000 sand patches strewn about Whistling Straits are again bunkers.",
+      "url": "http://www.nytimes.com/2015/08/11/sports/golf/at-whistling-straits-golfers-will-have-to-go-against-the-grains.html",
+      "byline": "By BILL PENNINGTON",
+      "item_type": "Article",
+      "updated_date": "2015-08-10T21:25:55-5:00",
+      "created_date": "2015-08-10T21:25:57-5:00",
+      "published_date": "2015-08-11T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Golf",
+        "PGA Championship"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "Johnson, Dustin"
+      ],
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/Y-JP-PGA/Y-JP-PGA-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dustin Johnson hitting out of a bunker on No. 18 at the 2010 P.G.A. Championship at Whistling Straits, where he was assessed a two-stroke penalty.",
+          "copyright": "Andy Lyons/Getty Images"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/Y-JP-PGA/Y-JP-PGA-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dustin Johnson hitting out of a bunker on No. 18 at the 2010 P.G.A. Championship at Whistling Straits, where he was assessed a two-stroke penalty.",
+          "copyright": "Andy Lyons/Getty Images"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/Y-JP-PGA/Y-JP-PGA-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dustin Johnson hitting out of a bunker on No. 18 at the 2010 P.G.A. Championship at Whistling Straits, where he was assessed a two-stroke penalty.",
+          "copyright": "Andy Lyons/Getty Images"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/sports/Y-JP-PGA/Y-JP-PGA-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dustin Johnson hitting out of a bunker on No. 18 at the 2010 P.G.A. Championship at Whistling Straits, where he was assessed a two-stroke penalty.",
+          "copyright": "Andy Lyons/Getty Images"
+        }
+      ]
+    },
+    {
+      "section": "Science",
+      "subsection": "",
+      "title": "The Roanoke Island Colony: Lost, and Found?",
+      "abstract": "Archaeological finds in North Carolina may provide clues to the fate of at least some of the Roanoke Island colonists who vanished in the late 1500s.",
+      "url": "http://www.nytimes.com/2015/08/11/science/the-roanoke-colonists-lost-and-found.html",
+      "byline": "By THEO EMERY",
+      "item_type": "Article",
+      "updated_date": "2015-08-10T07:00:24-5:00",
+      "created_date": "2015-08-10T07:00:27-5:00",
+      "published_date": "2015-08-11T04:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Archaeology and Anthropology",
+        "Ceramics and Pottery",
+        "Historic Buildings and Sites"
+      ],
+      "org_facet": [
+        "Mercer University"
+      ],
+      "per_facet": "",
+      "geo_facet": [
+        "Europe",
+        "Roanoke (Va)"
+      ],
+      "multimedia": [
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/science/11COLONYJP1/11COLONYJP1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A secluded cove off Salmon Creek near the dig site in North Carolina where archaeologists have discovered several pieces of Border ware and other materials that may suggest an early English settlement in the area.",
+          "copyright": "Travis Dove for The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/science/11COLONYJP1/11COLONYJP1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A secluded cove off Salmon Creek near the dig site in North Carolina where archaeologists have discovered several pieces of Border ware and other materials that may suggest an early English settlement in the area.",
+          "copyright": "Travis Dove for The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/science/11COLONYJP1/11COLONYJP1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A secluded cove off Salmon Creek near the dig site in North Carolina where archaeologists have discovered several pieces of Border ware and other materials that may suggest an early English settlement in the area.",
+          "copyright": "Travis Dove for The New York Times"
+        },
+        {
+          "url": "http://static01.nyt.com/images/2015/08/11/science/11COLONYJP1/11COLONYJP1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A secluded cove off Salmon Creek near the dig site in North Carolina where archaeologists have discovered several pieces of Border ware and other materials that may suggest an early English settlement in the area.",
+          "copyright": "Travis Dove for The New York Times"
+        }
+      ]
+    }
+  ]
+}
