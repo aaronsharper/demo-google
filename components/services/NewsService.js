@@ -16,7 +16,7 @@
           frontPage: [],
           frontPageFilters: [],
           movies: [],
-          listStyle: 'list',
+          listStyle: 'grid',
           categories: CONSTANTS.CATEGORIES,
           readLater: [],
           filter: '',
